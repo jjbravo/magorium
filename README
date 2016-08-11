@@ -1,0 +1,13 @@
+/********************************************
+	Jhon Jairo Bravo
+	bravo2008@misena.edu.co
+	CBI Palmira
+	Caso de estudio Magorium
+	SenaSoft Santander 2015
+********************************************/
+
+1 Para desplegar el proyecto, importar el script SQL usando phpmyadmin
+
+2 habilitar el modulo mod_rewrite 
+
+3 confirguar el servidor para que permita la lectura del archivo oculto .htaccess

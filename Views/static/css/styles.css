@@ -1,0 +1,20 @@
+.avatar{
+		width: 50px;
+		height: 60px;
+	}
+.avatar-editar{
+	width: 250px;
+	height: 280px;
+}
+
+.carrito {
+  background: #bc271c none repeat scroll 0 0;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  color: #fff;
+  padding: 20px;
+  position: fixed;
+  right: 10px;
+  top: 100px;
+  z-index: 1500;
+}
